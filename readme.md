@@ -3,7 +3,7 @@
 This repository is an unofficial pytorch implementation of 
 [DeepSurv: Personalized Treatment Recommender System Using
 A Cox Proportional Hazards Deep Neural Network](https://link.springer.com/article/10.1186/s12874-018-0482-1).
-We reimplement the experiments in the paper, and the detailed understanding is available on my [Blog](https://www.cnblogs.com/CZiFan/p/12674144.html).
+We reimplement the experiments in the paper, which is followed by [Github](https://github.com/jaredleekatzman/DeepSurv), and the detailed understanding is available on my [Blog](https://www.cnblogs.com/CZiFan/p/12674144.html).
 
 ## Requirements
 - Pytorch>=0.4.0
