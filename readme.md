@@ -24,7 +24,7 @@ Note: You can modify some parameters in configs/*.ini to get your own specific m
 | | Simulated Linear | Simulated Nonlinear |   WHAS   | SUPPORT  | METABRIC | Simulated Treatment | Rotterdam & GBSG |
 |---|---|---|---|---|---|---|---|
 | Paper | 0.774019 | 0.648902 | 0.862620 | 0.618308 | 0.643374 | 0.582774 | 0.668402 |
-|Our implements|     0.778722     |       0.500512      | 0.844973 | 0.617398 | 0.637163 |       0.559965      |     0.670171     |
+|Our implements|     0.778607     |       0.652048      | 0.841484 | 0.618107 | 0.643453 |       0.552648      |     0.673290     |
 
 ## Citation
 ```
