@@ -1,6 +1,6 @@
 torch==1.4.0+cpu
 prettytable==0.7.2
-numpy==1.17.3
+numpy==1.22.0
 lifelines==0.24.3
 pandas==0.25.3
 h5py==2.9.0
