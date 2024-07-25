@@ -1,4 +1,4 @@
-torch==1.4.0+cpu
+torch==2.2.0
 prettytable==0.7.2
 numpy==1.17.3
 lifelines==0.24.3
